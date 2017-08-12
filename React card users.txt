@@ -1,0 +1,27 @@
+React card users 
+
+API ===> https://randomuser.me/
+HTML ===> http://bulma.io/documentation/components/card/
+
+api
+-- index.js
+
+components
+-- App.js
+-- Header.js
+-- CardUser.js
+-- CardUserList.js
+
+pages
+-- Dashboard.js
+-- 
+
+actions
+-- index.js
+
+reducers
+-- index.js
+
+index.js
+store.js
+router.js
